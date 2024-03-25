@@ -1,0 +1,93 @@
+Z:\B\שוב לאה\angular\FinalProject\Server\bin\Debug\net6.0\appsettings.Development.json
+Z:\B\שוב לאה\angular\FinalProject\Server\bin\Debug\net6.0\appsettings.json
+Z:\B\שוב לאה\angular\FinalProject\Server\bin\Debug\net6.0\Server.exe
+Z:\B\שוב לאה\angular\FinalProject\Server\bin\Debug\net6.0\Server.deps.json
+Z:\B\שוב לאה\angular\FinalProject\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+Z:\B\שוב לאה\angular\FinalProject\Server\bin\Debug\net6.0\Server.dll
+Z:\B\שוב לאה\angular\FinalProject\Server\bin\Debug\net6.0\Server.pdb
+Z:\B\שוב לאה\angular\FinalProject\Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Z:\B\שוב לאה\angular\FinalProject\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\שוב לאה\angular\FinalProject\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\שוב לאה\angular\FinalProject\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\שוב לאה\angular\FinalProject\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+Z:\B\שוב לאה\angular\FinalProject\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\שוב לאה\angular\FinalProject\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+Z:\B\שוב לאה\angular\FinalProject\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+Z:\B\שוב לאה\angular\FinalProject\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+Z:\B\שוב לאה\angular\FinalProject\Server\obj\Debug\net6.0\Server.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\שוב לאה\angular\FinalProject\Server\obj\Debug\net6.0\Server.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\שוב לאה\angular\FinalProject\Server\obj\Debug\net6.0\staticwebassets.build.json
+Z:\B\שוב לאה\angular\FinalProject\Server\obj\Debug\net6.0\staticwebassets.development.json
+Z:\B\שוב לאה\angular\FinalProject\Server\obj\Debug\net6.0\scopedcss\bundle\Server.styles.css
+Z:\B\שוב לאה\angular\FinalProject\Server\obj\Debug\net6.0\Server.csproj.CopyComplete
+Z:\B\שוב לאה\angular\FinalProject\Server\obj\Debug\net6.0\Server.dll
+Z:\B\שוב לאה\angular\FinalProject\Server\obj\Debug\net6.0\refint\Server.dll
+Z:\B\שוב לאה\angular\FinalProject\Server\obj\Debug\net6.0\Server.pdb
+Z:\B\שוב לאה\angular\FinalProject\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+Z:\B\שוב לאה\angular\FinalProject\Server\obj\Debug\net6.0\ref\Server.dll
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\bin\Debug\net6.0\Server.exe
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\bin\Debug\net6.0\Server.deps.json
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\bin\Debug\net6.0\Server.dll
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\bin\Debug\net6.0\Server.pdb
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\obj\Debug\net6.0\Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\obj\Debug\net6.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\obj\Debug\net6.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.Server.props
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\obj\Debug\net6.0\scopedcss\bundle\Server.styles.css
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\obj\Debug\net6.0\Server.csproj.CopyComplete
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\obj\Debug\net6.0\Server.dll
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\obj\Debug\net6.0\refint\Server.dll
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\obj\Debug\net6.0\Server.pdb
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+C:\Users\user1\Documents\תכנות\יד\אנגולר\FinalProject\Server\obj\Debug\net6.0\ref\Server.dll
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\bin\Debug\net6.0\appsettings.json
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\bin\Debug\net6.0\appsettings.Development.json
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\bin\Debug\net6.0\Server.exe
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\bin\Debug\net6.0\Server.deps.json
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\bin\Debug\net6.0\Server.runtimeconfig.json
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\bin\Debug\net6.0\Server.dll
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\bin\Debug\net6.0\Server.pdb
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\obj\Debug\net6.0\Server.MvcApplicationPartsAssemblyInfo.cs
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\obj\Debug\net6.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\obj\Debug\net6.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\obj\Debug\net6.0\staticwebassets\msbuild.build.Server.props
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\obj\Debug\net6.0\staticwebassets.build.json
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\obj\Debug\net6.0\staticwebassets.development.json
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\obj\Debug\net6.0\scopedcss\bundle\Server.styles.css
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\obj\Debug\net6.0\Server.csproj.CopyComplete
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\obj\Debug\net6.0\Server.dll
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\obj\Debug\net6.0\refint\Server.dll
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\obj\Debug\net6.0\Server.pdb
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\server\obj\Debug\net6.0\ref\Server.dll
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\החומר שלי\אילה תיכנות\שנה ב\קראוס - angular\פרוייקט סיום\Server\bin\Debug\net6.0\Data\users.json

@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "UserName": "ayala",
+    "Password": "ayala&neomi",
+    "JobSearchField": "Software Developer",
+    "JobCount": 8
+  },
+  {
+    "Id": 2,
+    "UserName": "emma",
+    "Password": "12345678",
+    "JobSearchField": "Data Analyst",
+    "JobCount": 2
+  },
+  {
+    "Id": 3,
+    "UserName": "alex",
+    "Password": "qwerty",
+    "JobSearchField": "Project Manager",
+    "JobCount": 4
+  }
+]
