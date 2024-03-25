@@ -1,0 +1,13 @@
+
+<div id="job-container">
+    <!-- <p class="p-job">Title: {{ selectedJob.jobTitle }}</p> -->
+    <p>{{ selectedJob.jobTitle | customPipe }}</p>
+    <p class="p-job">Job Type: {{ selectedJob.jobField }}</p>
+    <p class="p-job">Scope of Hours: {{ selectedJob.scopeOfHours }}</p>
+    <p class="p-job">Area: {{ selectedJob.area }}</p>
+    <p class="p-job">Requirements: {{ selectedJob.requirements }}</p>
+    <p class="p-job">Work from Home: {{ selectedJob.workFromHome ? 'Yes' : 'No' }}</p>
+
+    <button (click)="countClick()">להוספת קו"ח</button>
+
+</div>

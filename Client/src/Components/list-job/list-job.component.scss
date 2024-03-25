@@ -1,0 +1,66 @@
+scss
+
+body{
+  justify-content: center;
+}
+
+.job-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+.okBTN{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.jobComp{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.p-job{
+  text-align: center;
+  font-size: 24px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 1%;
+}
+.job-item {
+  border: 1px solid #e13953;
+  border-radius: 5px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 200px;
+//   margin-left: 43%;
+  margin-bottom: 3%;
+}
+
+button {
+  margin-top: 10px;
+  padding: 5px 10px;
+  background-color: #e13953;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+input {
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+  font-size: 18px;
+}
+
+// #byArea{
+//   justify-content: center;
+// }
+
+// #b-Area{
+//   justify-content: center;
+// }

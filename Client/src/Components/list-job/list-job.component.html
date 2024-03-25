@@ -1,0 +1,41 @@
+
+<div *ngIf="enter">
+  <div *ngIf="byArea">
+    <div class="job-container">
+      <div class="job-item" *ngFor="let job of filteredJobs">
+        <h3 class="p-job">{{ job.jobTitle }}</h3>
+        <button (click)="onJobSelected(job)">Full details</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="byArea">
+    <p class="p-job">לסינון לפי איזור</p>
+    <input #Area type="text" placeholder="הכנס איזור">
+    
+  </div>
+  <div class="okBTN"><button id="b-Area" (click)="okClick(Area.value)">אישור</button></div>
+
+
+  <p class="p-job">{{msg}}</p>
+
+
+  <div *ngIf="!byArea">
+    <div class="job-container">
+      <div class="job-item" *ngFor="let job of areaJobs">
+        <h3 class="p-job">{{ job.jobTitle }}</h3>
+        <button (click)="onJobSelected(job)">Full details</button>
+      </div>
+    </div>
+  </div>
+
+<div *ngIf="show">
+  <app-job class="jobComp" [selectedJob]="selectedJob"></app-job>
+</div>
+</div>
+<div *ngIf="!enter">
+  <app-login></app-login>
+</div>
+
+
+

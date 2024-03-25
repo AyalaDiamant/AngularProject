@@ -1,0 +1,35 @@
+scss
+/* app.component.scss */
+
+body{
+    justify-content: center;
+}
+
+#link {
+  // background-color: #f06b7f;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  font-size: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+}
+
+.nav {
+  color: #333;
+//   text-decoration: none;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+}
+
+p {
+  text-align: center;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+router-outlet {
+  display: block;
+  margin-top: 20px;
+}
+

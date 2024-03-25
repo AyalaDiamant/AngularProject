@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    
+    background-color: #e13953;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+}
+
+.features {
+    display: flex;
+    justify-content: space-around;
+    margin: 2rem 0;
+}
+
+.feature {
+    flex: 1;
+    padding: 1rem;
+    text-align: center;
+}
+
+.feature h2 {
+    color: #e13953;
+}
+
+.feature p {
+    color: #666;
+}

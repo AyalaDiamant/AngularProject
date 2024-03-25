@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "6wxzQ/Yde5g//ne6hKbERwI6x4CxdDZqFSpAvEide9LMMH8KoEPDX6q4C4DnwLVvVseTHB0qbWKq8CaSqPKnIA==",
+  "success": true,
+  "projectFilePath": "C:\\החומר שלי\\אילה תיכנות\\שנה ב\\קראוס - angular\\פרוייקט מגיט\\final-project\\AngularProject\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\אילה\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\אילה\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\אילה\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\אילה\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\אילה\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\אילה\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\אילה\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

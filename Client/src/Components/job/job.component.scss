@@ -1,0 +1,67 @@
+scss
+/* job.component.scss */
+
+body{
+  justify-content: center;
+}
+
+p {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+button {
+  display: block;
+  margin: 10px auto;
+  padding: 10px 20px;
+  background-color: #e13953;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+#job-container{
+    // display: none;
+    border: 1px solid #e13953;
+    border-radius: 5px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 200px;
+    // margin-left: 43%;
+    margin-bottom: 3%;
+}
+
+.p-job{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Courier, monospace;
+    font-size: 20px;
+    padding: 2%;
+    margin: 2%;
+}
+
+#floatingContent {
+  text-align: center;
+}
+
+#successMessage {
+  font-size: 16px;
+}
+
+#floatingWindow {
+  // position: fixed;
+  top: 12%;
+  left: 50%;
+  // transform: translate(-50%, -50%);
+  background-color: rgba(0, 0, 0, 0.8);
+  color: #ff0000;
+  padding: 20px;
+  border-radius: 5px;
+  // z-index: 999;
+  // display: block;
+  opacity: 0;
+  // animation: fadeInOut 1.5s ease-in-out;
+}
