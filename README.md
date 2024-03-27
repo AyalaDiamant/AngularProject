@@ -1,4 +1,4 @@
-# Job search site
+# Job search site🖥️
 
 This project is a powerful job search platform developed using Angular for the client side and .NET Core for the server side. The site is designed to provide users with a fast and efficient job search experience based on their specialization and location preferences.
 
